@@ -1,9 +1,9 @@
 <p align="center">
-<a href="link"><img src="src/main/resources/to-do-list icon - vector.svg?raw=true" alt="Logo" width="110" height="110"></a>
+<a href="https://github.com/Klaus-Analyst/SCHOOL-PROJECT-TO-DO-LIST-APP.git"><img src="src/main/resources/to-do-list icon - vector.svg?raw=true" alt="Logo" width="110" height="110"></a>
 <br/>
 <br/>
-<a href="link/releases"><img src="https://img.shields.io/github/downloads/Marko19907/To-Do-List-App/total?label=Total%20downloads&style=flat-square" alt="GitHub releases"></a>
-<a href="link/actions/workflows/maven.yml"><img src="link/actions/workflows/maven.yml/badge.svg" alt="Build status"></a>
+<a href="https://github.com/Klaus-Analyst/SCHOOL-PROJECT-TO-DO-LIST-APP.git/releases"><img src="#" alt="GitHub releases"></a>
+<a href="https://github.com/Klaus-Analyst/SCHOOL-PROJECT-TO-DO-LIST-APP.git/actions/workflows/maven.yml"><img src="https://github.com/Klaus-Analyst/SCHOOL-PROJECT-TO-DO-LIST-APP.git/actions/workflows/maven.yml/badge.svg" alt="Build status"></a>
 </p>
 
 
@@ -11,12 +11,12 @@
 
 A to-do-list application written in Java
 <br />
-<a href="link/wiki">
+<a href="https://github.com/Klaus-Analyst/SCHOOL-PROJECT-TO-DO-LIST-APP.git/wiki">
 <strong>Explore the docs »</strong></a>
 <br />
-<a href="link/issues/new">Report a Bug</a>
+<a href="https://github.com/Klaus-Analyst/SCHOOL-PROJECT-TO-DO-LIST-APP.git/issues/new">Report a Bug</a>
 ·
-<a href="link/discussions/new">Request a Feature</a>
+<a href="https://github.com/Klaus-Analyst/SCHOOL-PROJECT-TO-DO-LIST-APP.git/discussions/new">Request a Feature</a>
 
 The project counts towards 100% of the final grade in the subject "System development".
 
@@ -52,7 +52,7 @@ This is a list of things you need to use this software.
    ```sh
    git clone link
    ```
-   or download it as a zip from [here](link).
+   or download it as a zip from [here](https://github.com/Klaus-Analyst/SCHOOL-PROJECT-TO-DO-LIST-APP.git).
    <br>
 
 #### Usage
