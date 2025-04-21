@@ -1,0 +1,16 @@
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/utility/DatabaseUtility.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/view/RegistrationScreen.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/model/TaskRegister.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/utility/FileUtility.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/view/ImageLoader.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/controller/Controller.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/service/AuthService.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/view/LoginScreen.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/module-info.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/model/Task.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/utility/PriorityComparator.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/dao/TaskDAO.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/utility/DatabaseInitializer.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/view/ToDoListAppGUI.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/Main.java
+/home/klausg/IdeaProjects/Project 4/To-Do-List-App/src/main/java/project/toDoListApp/dao/CategoryDAO.java
