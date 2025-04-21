@@ -85,30 +85,47 @@ This is a list of things you need to use this software.
 
 Project Images
 
+<br> 
+
 Adding a Task
 ![new task](https://github.com/user-attachments/assets/ebebd515-f6e5-48a0-8a94-0db4df8804de)
+
+<br>
 
 Category
 ![category](https://github.com/user-attachments/assets/5c530469-a3ce-46fc-86e8-e9eda9f782c0)
 
+<br>
+
 Deleting a task
 ![deleting a task](https://github.com/user-attachments/assets/d958a30e-2393-467f-9be2-711e7cea123a)
+
+<br>
 
 When a Task is Marked as Complete 
 ![mark as complete](https://github.com/user-attachments/assets/8d10fb2e-5d55-422d-90e4-3bff8abe4fd7)
 
+<br>
+
 More Information About the Project
 ![about](https://github.com/user-attachments/assets/f4af99e5-9efe-453d-a726-ef0667335b0b)
+
+<br>
 
 ER Diagram for the project
 ![ER Diagram (Database Schema)](https://github.com/user-attachments/assets/2dc4ea51-1b1e-4d4b-9c93-34a758a89f89)
 
+<br>
+
 Class Diagram 
 ![class diagram](https://github.com/user-attachments/assets/54a484e0-b9ab-47be-a9fe-d1d8c6644a61)
+
+<br>
 
 Use Case Diagram 
 ![Use Case Diagram](https://github.com/user-attachments/assets/c8f6da7c-09ec-4b32-9d21-a870488d1b98)
 
+<br>
 
 
 
